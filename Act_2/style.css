@@ -22,9 +22,9 @@ body {
 }
 
 .floating {
-    opacity: 0.5;
+    opacity: 0.2;
     position: absolute;
-    left: 82%;
+    left: 83%;
     top: 10px;
 }
 
@@ -34,3 +34,4 @@ body {
     font-size: 30;
     color: rgb(133,218,82);;
 }
+
