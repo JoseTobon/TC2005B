@@ -1,0 +1,36 @@
+body {
+    background-image: url("https://i.ytimg.com/vi/_Nhn8wNpC4I/maxresdefault.jpg");
+}
+
+.welcome {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: bold;
+    font-size: 175;
+    text-align: center;
+    color: silver;
+    background-color: rgb(133,218,82);
+    background: radial-gradient(circle, rgba(133,218,82,0.8771709367340687) 0%, rgba(0,0,0,0.8351541300113796) 100%);
+    width: 100%;
+}
+
+#nombres {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-size: 100;
+    color: silver;
+    text-align: center;
+}
+
+.floating {
+    opacity: 0.5;
+    position: absolute;
+    left: 82%;
+    top: 10px;
+}
+
+#link {
+    font-family: 'Courier New', monospace;
+    font-weight: bold;
+    font-size: 30;
+    color: rgb(133,218,82);;
+}
