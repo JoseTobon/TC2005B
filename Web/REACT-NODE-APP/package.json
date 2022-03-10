@@ -1,0 +1,24 @@
+{
+  "name": "tc2005b",
+  "version": "1.0.0",
+  "description": "Construcción de software",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseTobon/TC2005B.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseTobon/TC2005B/issues"
+  },
+  "homepage": "https://github.com/JoseTobon/TC2005B#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
