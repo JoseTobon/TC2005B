@@ -7,6 +7,16 @@ const PORT = process.env.PORT || 3001;
 
 const app = express();
 
+const newPet = {
+    "pet4" : {
+        "name" : "nala",
+        "type" : "dog",
+        "owner" : "eldercesar",
+        "color" : "salt and peper",
+        "id" : 4
+    }
+}
+
 app.get("/api", (req, res) => {
     res.json({message: "Hello from server side!" });
 });
