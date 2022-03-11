@@ -1,0 +1,16 @@
+{
+    "pet1" : {
+       "name" : "barry",
+       "type" : "cat",
+       "owner" : "eldelcesar",
+       "color" : "white with black-gray-ish",
+       "id": 1
+    },
+     "pet2" : {
+        "name" : "mejillitas",
+        "type" : "cat",
+        "owner" : "kyc",
+        "color" : "orange",
+        "id": 2
+    }
+}
