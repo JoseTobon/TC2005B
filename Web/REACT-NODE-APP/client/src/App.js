@@ -19,7 +19,6 @@ function App() {
         <p>
           {!data ? "Loading...": data}
         </p>
-        <div>NO CARGA PROF</div>
       </header>
     </div>
   );
